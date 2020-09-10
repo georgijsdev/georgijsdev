@@ -21,6 +21,6 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/germans-ventura/"><img alt="LinkedIn" src="https://image.flaticon.com/icons/svg/1384/1384088.svg"></a>
-<a href="https://www.instagram.com/georgijs.dev/"><img alt="Instagram" src="https://image.flaticon.com/icons/svg/1384/1384031.svg"></a>
-<a href="mailto:ventura55g@gmail.com"><img alt="Email" src="https://image.flaticon.com/icons/svg/2991/2991151.svg"></a>
+<a href="https://www.linkedin.com/in/germans-ventura/"><img width="22px" alt="LinkedIn" src="https://image.flaticon.com/icons/svg/1384/1384088.svg"></a>
+<a href="https://www.instagram.com/georgijs.dev/"><img width="22px" alt="Instagram" src="https://image.flaticon.com/icons/svg/1384/1384031.svg"></a>
+<a href="mailto:ventura55g@gmail.com"><img width="22px" alt="Email" src="https://image.flaticon.com/icons/svg/2991/2991151.svg"></a>
