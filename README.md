@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Georgijs Ventura.</h2>
 
-<h3> 👱🏻‍💻 About Me </h3>
+<h3> 👱 About Me </h3>
 
 - 🗺️ &nbsp; Exploring new technologies and developing frontend solutions.
 - 🌱 &nbsp; Learning Web Development as a Self-Thought
