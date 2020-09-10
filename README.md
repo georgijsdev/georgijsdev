@@ -1,16 +1,26 @@
-### Hi there 👋
+<h2> Hey there! I'm Georgijs Ventura.</h2>
 
-<!--
-**georgijsdev/georgijsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3> 👱🏻‍💻 About Me </h3>
 
-Here are some ideas to get you started:
+- 🗺️ &nbsp; Exploring new technologies and developing frontend solutions.
+- 🌱 &nbsp; Learning Web Development as a Self-Thought
+- 💼 &nbsp; Working in my personal projects using the stack mentioned below.
+- 🕸️ &nbsp; Pursuing Frontend Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; HTML | CSS | JavaScript | ReactJS
+- 🎨 &nbsp; Bootstrap | TailwindCSS
+- 🌐 &nbsp; SASS
+- 🔧 &nbsp; Git
+
+<br/>
+
+[![georgijsdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgijsdev&show_icons=true)](https://github.com/georgijsdev)
+
+<h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/germans-ventura/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/georgijs.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="mailto:ventura55g@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
