@@ -7,7 +7,7 @@
 - 💼 &nbsp; Working in my personal projects using the stack mentioned below.
 - 🕸️ &nbsp; Pursuing Frontend Development
 
-<h3>🛠 Tech Stack</h3>
+<h3>👨‍💻 Tech Stack</h3>
 
 - 💻 &nbsp; HTML | CSS | JavaScript | ReactJS
 - 🎨 &nbsp; Bootstrap | TailwindCSS
