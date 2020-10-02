@@ -2,8 +2,8 @@
 
 <h3> 👱 About Me </h3>
 
-- 🗺️ &nbsp; Exploring new technologies and developing frontend solutions.
 - 🌱 &nbsp; Learning Web Development as a Self-Thought
+- 🗺️ &nbsp; Exploring new technologies and developing frontend solutions.
 - 💼 &nbsp; Working in my personal projects using the stack mentioned below.
 - 🕸️ &nbsp; Pursuing Frontend Development
 
