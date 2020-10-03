@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Georgijs Ventura.</h2>
 
-<h3> 👱 About Me </h3>
+<h3> 👱 About me </h3>
 
 - 🌱 &nbsp; Learning Web Development as a Self-Thought
 - 🗺️ &nbsp; Exploring new technologies and developing frontend solutions.
@@ -18,7 +18,7 @@
 
 [![georgijsdev's GitHub Stats](https://github-readme-stats.vercel.app/api?username=georgijsdev&show_icons=true)](https://github.com/georgijsdev)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Connect with me </h3>
 
 <p align="left">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/georgijs.dev/"><img width="30px" alt="Instagram" src="https://image.flaticon.com/icons/svg/1384/1384031.svg"></a>
