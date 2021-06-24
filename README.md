@@ -2,17 +2,17 @@
 
 <h3> 👱 About me </h3>
 
-- 🌱 &nbsp; Learning Web Development as a Self-Thought
-- 🗺️ &nbsp; Exploring new technologies and developing frontend solutions.
-- 💼 &nbsp; Working in my personal projects using the stack mentioned below.
-- 🕸️ &nbsp; Pursuing Frontend Development
+- 🌱 &nbsp; Learning to program as a Self-Thought
+- 🗺️ &nbsp; Exploring new technologies and developing frontend/backend solutions.
+- 💼 &nbsp; Working in my personal projects.
+- 🕸️ &nbsp; Pursuing Fullstack Development
 
 <h3>👨‍💻 Tech Stack</h3>
 
-- 💻 &nbsp; HTML | CSS | JavaScript | ReactJS
+- 💻 &nbsp; Java | Spring
 - 🎨 &nbsp; Bootstrap | TailwindCSS
-- 🌐 &nbsp; SASS
-- 🔧 &nbsp; Git
+- 🌐 &nbsp; Webmethods
+- 🔧 &nbsp; Git | Jenkins
 
 <br/>
 
