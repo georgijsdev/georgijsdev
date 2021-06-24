@@ -10,8 +10,8 @@
 <h3>👨‍💻 Tech Stack</h3>
 
 - 💻 &nbsp; Java | Spring
-- 🎨 &nbsp; Bootstrap | TailwindCSS
-- 🌐 &nbsp; Webmethods
+- 📰 &nbsp; REST | SOAP
+- 🌐 &nbsp; WebMethods
 - 🔧 &nbsp; Git | Jenkins
 
 <br/>
